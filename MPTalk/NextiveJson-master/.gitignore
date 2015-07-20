@@ -1,0 +1,17 @@
+.DS_Store
+docset-installed.txt
+readme.html
+
+build/*
+
+NextiveJson.xcodeproj/ma.*
+
+
+.DS_Store
+
+
+NextiveJson.xcodeproj/xcuserdata/ma.xcuserdatad/xcschemes/xcschememanagement.plist
+
+NextiveJson.xcodeproj/xcuserdata/ma.xcuserdatad/xcschemes/NextiveJson.xcscheme
+
+NextiveJson.xcodeproj/xcuserdata/ma.xcuserdatad/xcschemes/Tests.xcscheme

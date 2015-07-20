@@ -1,0 +1,1 @@
+将MPTalk里面的XMPPFramework空文件夹删除，解压XMPPFramework.zip。
